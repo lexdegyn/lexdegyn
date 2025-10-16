@@ -5,7 +5,7 @@ I have a big interest for computers and I'm passionate to learn new things so I 
 
 - 💬 I'm currently trying to use programming as a way to optimize my routine and also learn new things with personal
 projects so sit tight and enjoy the ride with me: soon there will be some cool stuff on this page.
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I'm very inspired by Leonardo da Vinci
 - 📫 How to reach me: lexdegyn on all socials (LinkedIn, Discord, X, Instagram, YouTube...)
 
 
