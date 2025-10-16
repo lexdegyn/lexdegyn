@@ -1,7 +1,5 @@
 ## Hello! Welcome to my profile
 
-<img width="1648" height="612" alt="lex banner" src="https://github.com/user-attachments/assets/5807c796-b2c2-4b9e-b940-d29809ff6716" />
-
 I'm Lex and I'm currently a Mechanical Engineering student.
 I have a big interest for computers and I'm passionate to learn new things so I thought of this as a good initiative
 
