@@ -2,7 +2,7 @@
 I'm Lex and I'm currently a Mechanical Engineering student. I have a big interest for computers and I'm passionate to learn new things so I thought of this as a good initiative<br><br>    💬 I'm currently trying to use programming as a way to optimize my routine and also learn new things with personal projects so sit tight and enjoy the ride with me: soon there will be some cool stuff on this page.<br>    ⚡ Fun fact: I'm very inspired by Leonardo da Vinci<br>    📫 How to reach me: lexdegyn on all socials (LinkedIn, Discord, X, Instagram, YouTube...)<br>
 
 ## Important Links
-- [**Portoflio**](https://lexdegyn.github.io/portfolio/)
+- [**Curriculum**](https://lexdegyn.github.io/Curriculum/)
 - [**Quartz Website**](https://lexdegyn.github.io/quartz-website/ )
 
 
